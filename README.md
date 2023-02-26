@@ -1,3 +1,8 @@
+wget https://raw.githubusercontent.com/HexagonCyber/Fedora-KDE-Minimal-Install-Guide/master/fedora-kde-min-packages.sh
+chmod +x fedora-kde-min-packages.sh
+./fedora-kde-min-packages.sh
+
+
 ## Fedora KDE Minimal Install
 A guide to install Fedora Linux with the KDE Plasma Desktop Environment (DE) from a minimal Fedora installation. This will allow better control over which packages are included in Fedora KDE and result in a cleaner, lighter Fedora installation than the official Fedora KDE spin offers. The guide will provide step-by-step instructions to accomplish installing the KDE DE on top of a minimal Fedora install. I will also include optional, simple scripts to help with the process of installing the required packages to setup KDE on a minimal Fedora installation.
 
