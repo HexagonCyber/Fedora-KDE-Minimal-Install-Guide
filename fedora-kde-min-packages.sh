@@ -73,5 +73,7 @@ dnf install \
   sni-qt \
   xorg-x11-drv-libinput \
   firefox \
+  git \
   neofetch \
+  util-linux-user \
   wget
