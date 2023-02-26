@@ -1,5 +1,5 @@
-wget https://raw.githubusercontent.com/HexagonCyber/Fedora-KDE-Minimal-Install-Guide/master/fedora-kde-min-packages.sh
-chmod +x fedora-kde-min-packages.sh
+wget https://raw.githubusercontent.com/HexagonCyber/Fedora-KDE-Minimal-Install-Guide/master/fedora-kde-min-packages.sh  
+chmod +x fedora-kde-min-packages.sh  
 ./fedora-kde-min-packages.sh
 
 
