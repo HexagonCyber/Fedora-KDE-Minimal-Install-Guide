@@ -72,8 +72,10 @@ dnf install \
   sddm-kcm \
   sni-qt \
   xorg-x11-drv-libinput \
+  ark \
   firefox \
   git \
+  htop \
   neofetch \
   util-linux-user \
   wget
