@@ -77,5 +77,6 @@ dnf install \
   git \
   htop \
   neofetch \
+  tar \
   util-linux-user \
   wget
