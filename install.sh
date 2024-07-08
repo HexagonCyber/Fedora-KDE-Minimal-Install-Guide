@@ -14,7 +14,6 @@ dnf install \
   bluedevil \
   breeze-gtk \
   breeze-icon-theme \
-  cagibi \
   colord-kde \
   cups-pk-helper \
   dolphin \
@@ -32,15 +31,12 @@ dnf install \
   kdnssd \
   kf5-akonadi-server \
   kf5-akonadi-server-mysql \
-  kf5-baloo-file \
   kf5-kipi-plugins \
-  khotkeys \
   kmenuedit \
   konsole5 \
   kscreen \
   kscreenlocker \
   ksshaskpass \
-  ksysguard \
   kwalletmanager5 \
   kwebkitpart \
   kwin \
